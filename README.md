@@ -6,6 +6,7 @@
 - user is able to win points depending on colour multiplier.
 - user is able to loose points depending on colour if picked incorrectly.
 - user is able to receive achievments after certain actions.
+- user is able to browse history of games.
 
 ### 2. App technology:
 
