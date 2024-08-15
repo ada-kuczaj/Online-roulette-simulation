@@ -3,7 +3,7 @@
 ### 1. Functional Requirements:
 
 - user is able to bet points on different colours
-
+- user is able to win points depending on colour multiplier
 
 ### 2. App technology:
 
