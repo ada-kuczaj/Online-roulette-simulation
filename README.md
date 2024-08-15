@@ -8,6 +8,7 @@
 - user is able to receive achievments after certain actions.
 - user is able to browse history of games.
 - user is given position in the ranking based on points.
+- user is able to browse history of games.
 
 ### 2. App technology:
 
